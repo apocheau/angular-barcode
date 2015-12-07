@@ -1,6 +1,6 @@
 /**
  * angular barcode
- * @version v0.0.1 - 2015-12-07 * @link https://github.com/ryanmc2033/angular-barcode
+ * @version v0.0.3 - 2015-12-07 * @link https://github.com/ryanmc2033/angular-barcode
  * @author Ryan McLaughlin <ryanmc@justechn.com>
  * @license MIT License, http://www.opensource.org/licenses/MIT
  */angular.module('barcode', []).directive('barcode', [
